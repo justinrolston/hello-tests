@@ -11,3 +11,7 @@ Resouces:
 * Page-Object
 * Watir
 * testgen
+
+Lessons:
+
+1. [Getting Started](https://github.com/justinrolston/hello-tests/wiki/Lesson-1:-Getting-started)
